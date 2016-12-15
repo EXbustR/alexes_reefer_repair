@@ -1,0 +1,160 @@
+body {
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	text-align: center;	
+	margin: 0px;
+	background-color: #4F2B27    ;
+	height: 100%;
+	content: bottom: 100%;
+}
+ 
+ h1 {
+ 	color: white;
+ 	background-color: transparent;
+ 	position: relative;
+ 	top: -30px;
+
+ }
+ h3 {
+ 	margin: 0px;
+ 	color: white;
+ 	position: relative;
+ 	bottom: -30px;
+ }
+ div p {
+ 	color: white;
+ 	position: relative;
+ 	bottom: -30px;
+ 	text-indent: 20px;
+ }
+ h4 {
+ 	color: white;
+ 	font-size: 20px;
+ 	margin: 0px;
+ 	padding: 0px;
+ 	position: relative;
+ 	bottom:-30px;
+ 	
+ }
+ h5 {
+ 	color: white;
+ 	font-size: 20px;
+ }
+ li {
+ 	color: white;
+ 	list-style-type: none;
+
+ }
+ ul li {
+ 	position: relative;
+ 	top: -25px;
+
+
+ }
+ .hours a{
+ 	text-decoration: none;
+ 	color: white;
+ }
+ 
+.container1 {
+	width: 100%;
+	height: 350px;
+	background: #D8D8D8;
+	background-image: url(view.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+.container2 {
+	width: 500px;
+	height: 100px;
+	background-color: #2FA9B5;
+	border-radius: 7px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	
+}
+.container2 ul li {
+	list-style: none;
+	display: inline;
+	font-weight: bold;
+	padding: 10px;
+
+}
+.container2 a {
+	color: white;
+	text-decoration: none;
+	text-align: center
+}
+.container2 ul li:hover {
+	background: orange;
+	transition: all 0.65s;
+}
+.container2 h1 {
+	color: white;
+}
+.content {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+
+}
+.info {
+	width: 25%;
+	height: 250px;
+	background-color: #4F2B27;
+	margin-left: auto;
+	margin-right: auto;
+	float:left;
+}
+.info h3 {
+	color: #2FA9B5
+}
+.truck1 {
+	width: 25%;
+	height: 100%;
+	display: inline;
+	
+}
+.truck2 {
+	width: 25%;
+	height: 100%;
+	display: inline;
+	
+}
+.truck3 {
+	width: 25%;
+	height: 100%;
+	display: inline;
+	
+
+}
+.services {
+	width: 25%;
+	height: 250px;
+	background-color: #4F2B27;
+	
+	display: inline;
+	float: right;
+}
+.services p {
+	display: inline-block;
+
+}
+.services h4{
+	color: #2FA9B5
+}
+.pics {
+	width: 100%;
+	height: 300px;
+
+	display: inline-block;
+}
+.hours h5{
+	color: #2FA9B5
+}
+
+
+
