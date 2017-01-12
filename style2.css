@@ -1,0 +1,16 @@
+.hero-unit {
+		background: #D8D8D8;
+    background-image: url(view.jpg);
+    background-size:cover;
+    height:300px;
+  
+  }
+
+ .hero-text {
+    position: relative;
+    top: 13%;
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    background: rgba(78, 140, 240, 0.39);
+}
